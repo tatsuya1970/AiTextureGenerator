@@ -50,6 +50,7 @@ AI作成画像は先ほど設定した「ai」というタグのオブジェク�
 
 ## 留意事項
 
+- 国土交通省３D都市モデルPLATEAUのLOD2のみ対応（LOD1には未対応）
 - OpenAIのAPIのUsage tiersは　「Tier1」 以上を推奨。
   Freeプランだと、頻繁に"Too many Request"のエラーが発生する。
 - Skyboxはシームレスな360度画像ではない。
